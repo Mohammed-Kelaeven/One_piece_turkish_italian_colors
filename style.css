@@ -1,0 +1,31 @@
+
+*{
+    font-family: sans-serif;
+}
+
+h1{
+    text-align: center;
+}
+
+ul{
+    display: flex;
+}
+
+li{
+    list-style-type: none;
+    text-align: center;
+    margin: 20px;
+}
+
+#red{ 
+    color: rgb(255, 0, 0);
+}
+
+#green{
+    color: rgb(45, 210, 45);
+}
+
+#blue{
+    color: blue;
+}
+
